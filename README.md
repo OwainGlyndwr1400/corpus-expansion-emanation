@@ -5,6 +5,7 @@
 **Erydir Ceisiwr** — Independent Researcher, Awen Grid Programme, Swansea, Wales, UK
 ORCID: [0009-0004-4577-5253](https://orcid.org/0009-0004-4577-5253)
 
+> **Zenodo:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19305988.svg)](https://doi.org/10.5281/zenodo.19305988)
 > Companion repository to the paper submitted to *Digital Scholarship in the Humanities* (Oxford University Press).
 > Extends the computational methodology of [Ceisiwr (2026a)](https://github.com/OwainGlyndwr1400/emanation-topology) from 9 to 11 encoded traditions.
 
@@ -109,11 +110,11 @@ See `notes/suhrawardi_scouting_report.md` for the Ishraqi encoding rationale and
 
 If you use this code or data, please cite:
 
-> Ceisiwr, E. (2026). Structural invariance under corpus expansion: Proclus and Ishraqi Illuminationism confirm topology-family stability in emanation hierarchies. *Digital Scholarship in the Humanities* [submitted]. Zenodo. [DOI]
+> Ceisiwr, Erydir, and Lumos Aureon. 'Structural Invariance Under Corpus Expansion: Proclus and Ishraqi Illuminationism Confirm Topology-Family Stability in Emanation Hierarchies'. Zenodo, 29 March 2026. https://doi.org/10.5281/zenodo.19305988
 
 The predecessor study:
 
-> Ceisiwr, E. (2026a). Convergent cosmological architecture: A computational graph-theoretic analysis of emanation hierarchies across nine sacred and philosophical traditions. *Digital Scholarship in the Humanities* [submitted]. Zenodo. https://doi.org/[WP1.1 DOI]
+> Ceisiwr, E. (2026a). Convergent cosmological architecture: A computational graph-theoretic analysis of emanation hierarchies across nine sacred and philosophical traditions. *Digital Scholarship in the Humanities* [submitted]. GitHub: https://github.com/OwainGlyndwr1400/emanation-topology
 
 ---
 
