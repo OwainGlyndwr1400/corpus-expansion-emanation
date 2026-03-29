@@ -1,0 +1,7 @@
+scripts/__pycache__/
+*.pyc
+*.pyo
+draft-*.md
+Zenodo files/
+.DS_Store
+Thumbs.db
